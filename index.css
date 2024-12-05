@@ -1,12 +1,10 @@
 h1{
     color: darkgreen;
+    text-align: center;
+    
 }
-h2{
-    color: rgb(255, 0, 204);
-    font-size: larger ;
-}
+
  span{
     color: crimson;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 900;
+   font-size: x-large;
  }
